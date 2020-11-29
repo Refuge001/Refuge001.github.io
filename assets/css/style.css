@@ -70,6 +70,19 @@ aside {
     background-color: #2589bd;
 }
 
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
+
+    /* Copyright font values */
+small {
+    font-size: 20px;
+}
+
 a {
     color: #ffffff;
     /* ensures a line is not drawn through text, and existing decoration is removed */
@@ -152,17 +165,4 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-    font-size: 20px;
-}
-
-    /* Copyright font values */
-small {
-    font-size: 20px;
 }
