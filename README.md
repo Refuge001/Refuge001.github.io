@@ -1,4 +1,10 @@
 # Refuge001.github.io
-Will Utterback's portfolio
-#My Portfolio
-    ##First push to my first repository.
+#Will Utterback's Horiseon Refactor
+##Reasons for refactoring
+1. Reduce redunant code.
+2. Update websides coded using antiquated methodologies.
+3. Increase a websites' accessibility.
+---
+
+	
+**Repository contains quality README file with description, screenshot, and link to deployed application.**

@@ -85,7 +85,7 @@ small {
 
 a {
     color: #ffffff;
-    /* ensures a line is not drawn through text, and existing decoration is removed */
+    /* ensures a line does not have a underline, overline, line-through, or a combination of lines to selected textt, and existing decoration is removed */
     text-decoration: none;
 }
 
