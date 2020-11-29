@@ -1,5 +1,4 @@
-# Refuge001.github.io
-#Will Utterback's Horiseon Refactor
+# Horiseon Refactor
 ##Reasons for refactoring
 1. Reduce redunant code.
 2. Update websides coded using antiquated methodologies.
