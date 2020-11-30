@@ -58,7 +58,7 @@ section {
     margin-left: 20px;
 }
 
-    /* search-engine-optimization, online-reputation-management, social-media-marketing */
+    /* box model and text values for search-engine-optimization, online-reputation-management, social-media-marketing */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -69,7 +69,7 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+ /* footer text and box model values */
 footer {
     padding: 30px;
     clear: both;
@@ -78,7 +78,7 @@ footer {
     font-size: 20px;
 }
 
-    /* Copyright font values */
+    /* copyright font values */
 small {
     font-size: 20px;
 }
@@ -93,7 +93,7 @@ p {
     font-size: 16px;
 }
 
-    /* section with the picture of 4 people working at a table located underneath heading */
+    /* box model and background image values for div container */
 .hero {
     height: 800px;
     width: 100%;
@@ -115,7 +115,7 @@ p {
     margin-left: 25px;
 }
 
-    /*section text and box model values */
+    /* section text and box model values */
 .search-engine-optimization, 
 .online-reputation-management, 
 .social-media-marketing {
@@ -127,14 +127,14 @@ p {
     color: #ffffff;
 }
 
-    /*section img size values */
+    /* section img size values */
 .search-engine-optimization img, 
 .online-reputation-management img, 
 .social-media-marketing img {
     max-height: 200px;
 }
 
-    /*section heading values */
+    /* section heading values */
 .search-engine-optimization h2, 
 .online-reputation-management h2, 
 .social-media-marketing h2 {
